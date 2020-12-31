@@ -1,10 +1,14 @@
 {
-  "name": "smart-router",
+  "name": "@cmcarey/smart-router",
   "version": "1.0.0",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "author": "Chance Carey <chance@carey.sh>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "github:cmcarey/smart-router"
+  },
   "scripts": {
     "build": "tsc",
     "test": "jest",
